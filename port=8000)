@@ -1,0 +1,6 @@
+
+### Connecting Frontend and Backend
+
+1. **Update the frontend to communicate with the backend:**
+
+src/pages/Index.jsx

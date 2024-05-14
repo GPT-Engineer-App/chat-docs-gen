@@ -1,0 +1,6 @@
+   pip install fastapi uvicorn python-multipart
+   ```
+
+2. **Create the FastAPI app:**
+
+main.py
